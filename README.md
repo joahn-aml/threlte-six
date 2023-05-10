@@ -1,22 +1,17 @@
-# create-svelte
+# Threlte 6 Demo
 
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
+Testing some [`Threlte 6 `](https://next.threlte.xyz/) stuff.
 
-## Creating a project
+Threlte 6 is in active development so there may be dragons around.
 
-If you're seeing this, you've probably already done this step. Congrats!
+## Technologies
 
-```bash
-# create a new project in the current directory
-npm create svelte@latest
-
-# create a new project in my-app
-npm create svelte@latest my-app
-```
+- [`Threlte`](https://next.threlte.xyz/)
+- [`SvelteKit`](https://kit.svelte.dev/)
 
 ## Developing
 
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
+Installed dependencies with `npm install` (or `pnpm install` or `yarn`), and then start a development server:
 
 ```bash
 npm run dev
@@ -34,5 +29,3 @@ npm run build
 ```
 
 You can preview the production build with `npm run preview`.
-
-> To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.

@@ -1,0 +1,10 @@
+:root {
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+	margin: 0;
+	overscroll-behavior: none;
+	background-color: black;
+	color: white;
+}
