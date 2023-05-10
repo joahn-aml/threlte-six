@@ -1,8 +1,8 @@
 # Threlte 6 Demo
 
-Testing some [`Threlte 6 `](https://next.threlte.xyz/) stuff.
+Testing some [`Threlte 6`](https://next.threlte.xyz/) stuff.
 
-Threlte 6 is in active development so there may be dragons around.
+Threlte 6 is in active development so there may be dragons around!
 
 ## Technologies
 
@@ -11,7 +11,7 @@ Threlte 6 is in active development so there may be dragons around.
 
 ## Developing
 
-Installed dependencies with `npm install` (or `pnpm install` or `yarn`), and then start a development server:
+Install dependencies with `npm install` (or `pnpm install` or `yarn`), and then start a development server:
 
 ```bash
 npm run dev
