@@ -30,5 +30,5 @@
 	on:pointerleave={() => scale.set(1)}
 >
 	<T.BoxGeometry args={[1, 2, 1]} />
-	<T.MeshStandardMaterial color="hotpink" />
+	<T.MeshStandardMaterial color="aquamarine" />
 </T.Mesh>
