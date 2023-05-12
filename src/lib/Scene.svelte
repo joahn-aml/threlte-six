@@ -4,17 +4,17 @@
 	import { spring } from 'svelte/motion';
 	import { get } from 'svelte/store';
 
-	interactivity();
 	const scale = spring(1);
-
 	let rotation = 0;
 	const rotationSpeed = spring(0, {
 		stiffness: 0.01,
 		damping: 1
 	});
+
 	useFrame((_state, delta) => {
 		rotation += get(rotationSpeed) * delta;
 	});
+	interactivity();
 </script>
 
 <T.PerspectiveCamera
